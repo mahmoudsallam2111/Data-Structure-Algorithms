@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670072941 source:d:\work\instructor\ds\intake 43\menofia\day4\main.cpp
+	<iostream>
+	"Tree.h"
+
+1670073181 d:\work\instructor\ds\intake 43\menofia\day4\include\tree.h
+	<iostream>
+	"Node.h"
+
+1670065246 d:\work\instructor\ds\intake 43\menofia\day4\include\node.h
+
